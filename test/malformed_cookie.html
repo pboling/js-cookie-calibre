@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<script src="../vendor/js-cookie/src/js.cookie.js"></script>
+		<script src="../src/js.cookie.calibre.js"></script>
+		<script>
+			try {
+				Object.defineProperty(document, "cookie", { get: function() { return "calibre_first=one; ; calibre_second=two"; } });
+				window.testValue = Calibre.get("second");
+				window.ok = true;
+			} catch (er) {
+			}
+		</script>
+	</head>
+	<body>
+	</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "name": "js-cookie-calibre",
+  "main": [
+    "src/js.cookie.calibre.js"
+  ],
+  "ignore": []
+}
