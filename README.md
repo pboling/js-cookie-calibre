@@ -4,7 +4,7 @@ A simple, lightweight JavaScript API for handling cookies
 
 * Works in [all](https://saucelabs.com/u/pboling) browsers (TODO: Finish configuring Sauce)
 * Accepts any character
-* [Heavily](#test) tested
+* [Heavily](test) tested
 * Only dependency is js.cookie, which has no dependencies.
 * [Unobtrusive](#json) JSON support
 * Supports AMD/CommonJS
