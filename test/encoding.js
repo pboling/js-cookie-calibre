@@ -117,7 +117,6 @@ QUnit.test('RFC 6265 - character allowed in the cookie-value "&"', function (ass
 	});
 });
 
-// github.com/carhartl/jquery-cookie/pull/62
 QUnit.test('RFC 6265 - character allowed in the cookie-value "+"', function (assert) {
 	assert.expect(2);
 	using(assert)

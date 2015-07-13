@@ -2,9 +2,9 @@
 
 A simple, lightweight JavaScript API for handling cookies
 
-* Works in [all](https://saucelabs.com/u/pboling) browsers
+* Works in [all](https://saucelabs.com/u/pboling) browsers (TODO: Finish configuring Sauce)
 * Accepts any character
-* [Heavily](test) tested
+* [Heavily](#test) tested
 * Only dependency is js.cookie, which has no dependencies.
 * [Unobtrusive](#json) JSON support
 * Supports AMD/CommonJS
@@ -260,6 +260,5 @@ Check out the [Contributing Guidelines](CONTRIBUTING.md)
 
 ## Authors
 
-* [Peter Boling](https://github.com/carhartl)
-* [Fagner Brack](https://github.com/FagnerMartinsBrack)
-* And awesome [contributors](https://github.com/pboling/js-cookie-calibre/graphs/contributors)
+* [Peter Boling](https://github.com/pboling)
+* Contributors [contributors](https://github.com/pboling/js-cookie-calibre/graphs/contributors)
