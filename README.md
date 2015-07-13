@@ -1,6 +1,6 @@
-# JavaScript Cookie [![Build Status](https://travis-ci.org/pboling/js-cookie-calibre.svg?branch=master)](https://travis-ci.org/pboling/js-cookie-calibre) [![Code Climate](https://codeclimate.com/github/pboling/js-cookie-calibre.svg)](https://codeclimate.com/github/pboling/js-cookie-calibre)
+# JavaScript Cookie Calibre [![Build Status](https://travis-ci.org/pboling/js-cookie-calibre.svg?branch=master)](https://travis-ci.org/pboling/js-cookie-calibre) [![Code Climate](https://codeclimate.com/github/pboling/js-cookie-calibre.svg)](https://codeclimate.com/github/pboling/js-cookie-calibre)
 
-A simple, lightweight JavaScript API for handling cookies
+A simple, lightweight JavaScript API for handling cookies namespaced with `calibre_*`
 
 * Works in [all](https://saucelabs.com/u/pboling) browsers (TODO: Finish configuring Sauce)
 * Accepts any character
